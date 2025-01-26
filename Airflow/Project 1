@@ -1,5 +1,5 @@
-# Healthcare Dataset Stroke Analysis with Apache Airflow
-# Project Overview:
+#Healthcare Dataset Stroke Analysis with Apache Airflow
+#Project Overview:
 The project aims to analyze and process healthcare data, specifically focused on stroke-related insights, by leveraging Apache Airflow for orchestration. The dataset includes patient information, such as demographics, medical history, and other attributes, to predict and understand stroke patterns. Airflow is used to automate data extraction, transformation, loading (ETL), and analytics workflows efficiently.
 
 3 Key Objectives:
